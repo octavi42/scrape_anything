@@ -1,0 +1,1057 @@
+[
+  {
+    "website_link": "https://suchen.mobile.de/fahrzeuge/search.html?dam=false&isSearchRequest=true&ms=8600%3B47%3B%3B&ref=quickSearch&s=Car&sb=rel&vc=Car",
+    "website": "https://suchen.mobile.de",
+    "schema": {
+      "close_btn": "/html/body/div[1]/dialog/div[2]/div[1]/button",
+      "products": [
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[2]/a/div[3]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[6]/div/div[1]/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[2]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[3]/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[3]/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[4]/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[4]/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[4]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[5]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[5]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[5]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[6]/div/div[1]/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[6]/div/div[1]/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[6]/div/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[6]/div/div[2]/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[6]/div/div[2]/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[6]/div/div[2]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[6]/div/div[3]/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[6]/div/div[3]/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[6]/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[7]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[7]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[7]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[8]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[8]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[8]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[9]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[9]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[9]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[10]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[10]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[10]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[11]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[11]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[11]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[14]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[14]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[14]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[15]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[15]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[15]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[16]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[16]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[16]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[19]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[19]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[19]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[20]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[20]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[20]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[21]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[21]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[21]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[22]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[22]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[22]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[23]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[23]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[23]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[25]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[25]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[25]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[26]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[26]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[26]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[27]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[27]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[27]/div/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[28]/div/a/div[2]/div/h2",
+          "priceXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[28]/div/a/div[3]/div/div[1]/div/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[6]/div[2]/article[1]/div[28]/div/a"
+        }
+      ]
+    }
+  },
+  {
+    "website_link": "https://us.vestiairecollective.com/men-shoes/?_gl=1*tqavgn*_up*MQ..*_gs*MQ..&gclid=EAIaIQobChMI1are__fligMVbl6RBR1Mjw6yEAAYASAAEgLKUPD_BwE#categoryParent=Shoes%2313_gender=Men%232",
+    "website": "https://us.vestiairecollective.com",
+    "schema": {
+      "close_btn": null,
+      "products": [
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[1]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[1]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[1]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[2]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[2]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[2]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[3]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[3]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[3]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[4]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[4]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[4]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[5]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[5]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[5]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[6]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[6]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[6]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[7]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[7]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[7]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[8]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[8]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[8]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[10]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[10]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[10]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[11]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[11]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[11]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[12]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[12]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[12]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[13]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[13]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[13]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[14]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[14]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[14]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[15]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[15]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[15]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[16]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[16]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[16]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[17]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[17]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[17]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[18]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[18]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[18]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[19]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[19]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[19]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[20]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[20]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[20]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[21]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[21]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[21]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[22]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[22]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[22]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[23]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[23]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[23]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[24]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[24]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[24]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[25]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[25]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[25]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[26]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[26]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[26]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[27]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[27]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[27]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[28]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[28]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[28]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[29]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[29]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[29]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[30]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[30]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[30]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[31]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[31]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[31]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[32]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[32]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[32]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[33]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[33]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[33]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[34]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[34]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[34]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[35]/span/div/div[4]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[35]/span/div/div[4]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[35]/span/div/div[4]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[36]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[36]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[36]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[37]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[37]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[37]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[38]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[38]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[38]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[39]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[39]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[39]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[40]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[40]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[40]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[41]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[41]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[41]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[42]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[42]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[42]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[43]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[43]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[43]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[44]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[44]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[44]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[45]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[45]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[45]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[46]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[46]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[46]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[47]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[47]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[47]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[48]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[48]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[48]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[49]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[49]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[49]/span/div/div[3]/a"
+        }
+      ]
+    }
+  },
+  {
+    "website_link": "https://us.vestiairecollective.com/men-shoes/?_gl=1*tqavgn*_up*MQ..*_gs*MQ..&gclid=EAIaIQobChMI1are__fligMVbl6RBR1Mjw6yEAAYASAAEgLKUPD_BwE#categoryParent=Shoes%2313_gender=Men%232",
+    "schema": {
+      "close_btn": "/html/body/div[3]/div/div[2]/button[2]",
+      "products": [
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[1]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[1]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[1]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[2]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[2]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[2]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[3]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[3]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[3]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[4]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[4]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[4]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[5]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[5]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[5]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[6]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[6]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[6]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[7]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[7]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[7]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[8]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[8]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[8]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[10]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[10]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[10]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[11]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[11]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[11]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[12]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[12]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[12]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[13]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[13]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[13]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[14]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[14]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[14]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[15]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[15]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[15]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[16]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[16]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[16]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[17]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[17]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[17]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[18]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[18]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[18]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[19]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[19]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[19]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[20]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[20]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[20]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[21]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[21]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[21]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[22]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[22]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[22]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[23]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[23]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[23]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[24]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[24]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[24]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[25]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[25]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[25]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[26]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[26]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[26]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[27]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[27]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[27]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[28]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[28]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[28]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[29]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[29]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[29]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[30]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[30]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[30]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[31]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": null,
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[31]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[32]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[32]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[32]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[33]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[33]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[33]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[34]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[34]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[34]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[35]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[35]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[35]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[36]/span/div/div[4]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[36]/span/div/div[4]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[36]/span/div/div[4]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[37]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[37]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[37]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[38]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[38]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[38]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[39]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[39]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[39]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[40]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[40]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[40]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[41]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[41]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[41]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[42]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[42]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[42]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[43]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[43]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[43]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[44]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[44]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[44]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[45]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[45]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[45]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[46]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[46]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[46]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[47]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[47]/span/div/div[3]/div[1]/span[1]",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[47]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[48]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[48]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[48]/span/div/div[3]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[49]/span/div/div[3]/a/h2/span[2]",
+          "priceXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[49]/span/div/div[3]/div[1]/span",
+          "linkXPath": "/html/body/div[1]/div/main/div[3]/div/div[1]/div[2]/div[2]/ul/li[49]/span/div/div[3]/a"
+        }
+      ]
+    }
+  },
+  {
+    "website": "https://www.kleinanzeigen.de",
+    "schema": {
+      "close_btn": "/html/body/div[2]/div/div/div/div/div/div[3]/button[2]",
+      "products": [
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[1]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[1]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[1]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[2]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[2]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[2]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[3]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[3]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[3]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[4]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[4]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[4]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[5]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[5]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[5]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[6]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[6]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[6]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[7]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[7]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[7]/article/div[1]/a/div/img"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[8]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[8]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[8]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[10]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[10]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[10]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[11]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[11]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[11]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[12]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[12]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[12]/article/div[1]/a/div/img"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[13]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[13]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[13]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[14]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[14]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[14]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[15]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[15]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[15]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[16]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[16]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[16]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[17]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[17]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[17]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[18]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[18]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[18]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[20]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[20]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[20]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[21]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[21]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[21]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[22]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[22]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[22]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[23]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[23]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[23]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[24]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[24]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[24]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[25]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[25]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[25]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[26]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[26]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[26]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[27]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[27]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[27]/article/div[1]/a/div/img"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[28]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[28]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[28]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[29]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[29]/article/div[2]/div[2]/div[1]/p[1]",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[29]/article/div[1]/a"
+        }
+      ]
+    }
+  },
+  {
+    "website": "https://www.kleinanzeigen.de",
+    "schema": {
+      "close_btn": "/html/body/div[2]/div/div/div/div/div/div[3]/button[2]",
+      "products": [
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[1]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[1]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[1]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[2]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[2]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[2]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[3]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[3]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[3]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[4]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[4]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[4]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[5]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[5]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[5]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[6]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[6]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[6]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[7]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[7]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[7]/article/div[1]/a/div/img"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[8]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[8]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[8]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[10]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[10]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[10]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[11]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[11]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[11]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[12]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[12]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[12]/article/div[1]/a/div/img"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[13]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[13]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[13]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[14]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[14]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[14]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[15]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[15]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[15]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[16]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[16]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[16]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[17]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[17]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[17]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[18]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[18]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[18]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[20]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[20]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[20]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[21]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[21]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[21]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[22]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[22]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[22]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[23]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[23]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[23]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[24]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[24]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[24]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[25]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[25]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[25]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[26]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[26]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[26]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[27]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[27]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[27]/article/div[1]/a/div/img"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[28]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[28]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[28]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[29]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[29]/article/div[2]/div[2]/div[1]/p[1]",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[29]/article/div[1]/a"
+        }
+      ]
+    }
+  },
+  {
+    "website": "https://www.kleinanzeigen.de",
+    "schema": {
+      "close_btn": "/html/body/div[2]/div/div/div/div/div/div[3]/button[2]",
+      "products": [
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[1]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[1]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[1]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[2]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[2]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[2]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[3]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[3]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[3]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[4]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[4]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[4]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[5]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[5]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[5]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[6]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[6]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[6]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[7]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[7]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[7]/article/div[1]/a/div/img"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[8]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[8]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[8]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[10]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[10]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[10]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[11]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[11]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[11]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[12]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[12]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[12]/article/div[1]/a/div/img"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[13]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[13]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[13]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[14]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[14]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[14]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[15]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[15]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[15]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[16]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[16]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[16]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[17]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[17]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[17]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[18]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[18]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[18]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[20]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[20]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[20]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[21]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[21]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[21]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[22]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[22]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[22]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[23]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[23]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[23]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[24]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[24]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[24]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[25]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[25]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[25]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[26]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[26]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[26]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[27]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[27]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[27]/article/div[1]/a/div/img"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[28]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[28]/article/div[2]/div[2]/div[1]/p",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[28]/article/div[1]/a"
+        },
+        {
+          "titleXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[29]/article/div[2]/div[2]/h2/a",
+          "priceXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[29]/article/div[2]/div[2]/div[1]/p[1]",
+          "linkXPath": "/html/body/div[1]/div[2]/div/div[4]/div[2]/div[3]/div/ul/li[29]/article/div[1]/a"
+        }
+      ]
+    }
+  }
+]
