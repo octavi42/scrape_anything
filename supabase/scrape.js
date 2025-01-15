@@ -15,7 +15,15 @@ function initializeSupabase() {
 
 export async function fetchLinksByInterval() {
     initializeSupabase();
-    const { data: links, error } = await supabase.rpc('get_active_links');
+    // const { data: links, error } = await supabase.rpc('get_active_links');
+
+    const { data: links, error } = await supabase
+        .from('links')
+        .select('*')
+        .eq('run', true);
+
+    console.log('Links:', links);
+        
     
     if (error) throw new Error(`Error fetching links by interval: ${error.message}`);
 
@@ -75,7 +83,7 @@ export async function saveNewSchema(schema, link_id) {
 
 
 export async function get_last_scraped_data(link_id) {
-    console.log('link id: ',link_id);
+    console.log('link id: ', link_id);
     
     initializeSupabase();
     const { data, error } = await supabase
