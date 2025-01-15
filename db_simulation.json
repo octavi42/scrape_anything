@@ -1,0 +1,30 @@
+[
+    {
+      "link_id": 14,
+      "url": "https://www.kleinanzeigen.de/s-autos/audi/preis::60000/c216+autos.marke_s:audi+autos.model_s:r8",
+      "last_scraped_link": "2025-01-08T15:36:00.000Z",
+      "email": "octavicristea@gmail.com",
+      "schema_id": null
+    },
+    {
+      "link_id": 13,
+      "url": "https://www.kleinanzeigen.de/s-autos/porsche/preis::20000/c216+autos.marke_s:porsche+autos.model_s:cayman",
+      "last_scraped_link": "2025-01-07T20:52:00.000Z",
+      "email": "octavicristea@gmail.com",
+      "schema_id": null
+    },
+    {
+      "link_id": 1,
+      "url": "https://www.kleinanzeigen.de/s-motorraeder-roller/preis::2200/bmw/k0c305",
+      "last_scraped_link": "2025-01-08T19:54:00.000Z",
+      "email": "octavicristea@gmail.com",
+      "schema_id": 4
+    },
+    {
+      "link_id": 2,
+      "url": "https://suchen.mobile.de/fahrzeuge/search.html?dam=false&isSearchRequest=true&ms=8600%3B47%3B%3B&ref=quickSearch&s=Car&sb=rel&vc=Car",
+      "last_scraped_link": null,
+      "email": "octavicristea@gmail.com",
+      "schema_id": 1
+    }
+]
