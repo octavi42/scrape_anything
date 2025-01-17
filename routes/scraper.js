@@ -8,11 +8,11 @@ import { scrape_db } from '../utils/scrape_links.js'
 const router = express.Router();
 
 router.get('/test', async (req, res) => {
-    const link = await get_link(15)
+    const link = await get_link(17)
 
     const schema_definition = await defineSchema(link.url)
 
-    await saveNewSchema(schema_definition, link.id)
+    await saveNewSchema(schema_definition, link)
 });
 
 router.post('/define_schema', async (req) => {
